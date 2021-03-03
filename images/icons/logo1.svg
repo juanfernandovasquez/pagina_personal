@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.427622mm"
+   height="11.851046mm"
+   viewBox="0 0 14.427622 11.851046"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="logo1.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="49.414074"
+       y="58.269691"
+       width="52.552258"
+       height="23.041462"
+       id="rect838" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="118.16263 : -47.818173 : 1"
+       inkscape:vp_y="-16.182186 : 551.22947 : 0"
+       inkscape:vp_z="310.66357 : -180.20287 : 1"
+       inkscape:persp3d-origin="141.27584 : -236.42424 : 1"
+       id="perspective887" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-10.901429"
+     inkscape:cy="-27.197397"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1179"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.622892,-141.55325)">
+    <g
+       id="g1179"
+       transform="matrix(3.015871,0,0,3.015871,-116.16249,-53.065799)"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.84869px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+         x="59.413181"
+         y="68.389786"
+         id="text1165"><tspan
+           sodipodi:role="line"
+           id="tspan1163"
+           x="59.413181"
+           y="68.389786"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.84869px;font-family:Corbel;-inkscape-font-specification:'Corbel, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;">J</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.84869px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+         x="60.667896"
+         y="68.628036"
+         id="text1169"
+         transform="rotate(-0.24557481)"><tspan
+           sodipodi:role="line"
+           id="tspan1167"
+           x="60.667896"
+           y="68.628036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.84869px;font-family:Corbel;-inkscape-font-specification:'Corbel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;">V</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text836"
+         style="font-style:normal;font-weight:normal;font-size:3.50921px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect838);fill:#000000;fill-opacity:1;stroke:none;" />
+    </g>
+  </g>
+</svg>
